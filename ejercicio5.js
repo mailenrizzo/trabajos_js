@@ -33,3 +33,4 @@ console.log("Resultado de la resta:", resultadoResta); // Imprimimos el resultad
 console.log("Resultado de la multiplicación:", resultadoMultiplicacion); // Imprimimos el resultado de la multiplicación
 console.log("Resultado de la división:", resultadoDivision); // Imprimimos el resultado de la división
 
+
